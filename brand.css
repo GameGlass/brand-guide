@@ -1,0 +1,19 @@
+/*
+ * GameGlass brand colors
+ */
+:root {
+  /* Backgrounds */
+  --gg-color-background-dark: #09090b;
+  --gg-color-background-light: #fafafa;
+
+  /* Brand greens */
+  --gg-color-green: #41e985;
+  --gg-color-green-dark: #27916a;
+
+  /* Brand gradient (top to bottom) */
+  --gg-gradient-green: linear-gradient(
+    180deg,
+    var(--gg-color-green) 0%,
+    var(--gg-color-green-dark) 100%
+  );
+}

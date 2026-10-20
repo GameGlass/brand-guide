@@ -1,0 +1,10 @@
+{
+  "name": "@gameglass/brand-guide",
+  "version": "1.0.0",
+  "description": "GameGlass Brand Guide Assets & CSS vars",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "GameGlass",
+  "license": "SEE LICENSE IN LICENSE.md"
+}
